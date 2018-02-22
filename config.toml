@@ -1,0 +1,5 @@
+theme = "anybodyhome"
+languageCode = "en-us"
+title = "My New Hugo Site"
+baseurl = "https://hiroshi-jp.github.io/t7/"
+canonifyurls = true
